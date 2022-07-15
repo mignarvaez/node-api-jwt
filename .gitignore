@@ -1,0 +1,5 @@
+#Se indica que los siguientes archivos y/o carpetas no serán subidos a un repositorio git
+*.env
+node_modules
+dist
+
